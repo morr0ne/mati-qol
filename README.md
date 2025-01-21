@@ -17,6 +17,7 @@ just be in minecraft
 - Krypton - Makes network go fast
 - Enhanced Block Entities - Makes entities not be lag
 - C2me - Chunks get threading, the good kind
+- Nvidium - Uses mesh shader if you are on team green
 
 ## Pretty things
 
