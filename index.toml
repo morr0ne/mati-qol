@@ -6,7 +6,7 @@ hash = "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1"
 
 [[files]]
 file = "README.md"
-hash = "291849f5d437685e2a2934fcbbf66c9437519ae7c120cccf8ff39b1f4cd448c3"
+hash = "adb5cc413371f176f54f670e776705ca2d4f2412637cbab99ba10ba898f61fc9"
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
@@ -19,6 +19,11 @@ hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "bc213d7a99082681c3b76ec0a08d2c7b697eff9327c314497b52e64bc7d9d78d"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
@@ -26,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]
