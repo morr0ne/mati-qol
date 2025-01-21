@@ -6,11 +6,21 @@ hash = "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1"
 
 [[files]]
 file = "README.md"
-hash = "4bcb60790546f1c457d31747ef2e89131b0c3e38a8ac37f2fb9e4f7380f2b586"
+hash = "90cbf4c3de60a0b5a63ae0c0bc0f2031018f868f1a2b666cbf4deb16c5b215b6"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
+metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5e9beea41a6fc97676df2152abe502ecaec27990ce700e653eeb39bd9665c633"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "c0fd4aea6da31ebee878dc2355376f9c58548e299eac47a07d7e25e4c7b2d327"
 metafile = true
 
 [[files]]
