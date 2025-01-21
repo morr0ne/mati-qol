@@ -14,6 +14,7 @@ just be in minecraft
 - FerriteCore - Memory optimization mod
 - ImmediatelyFast - Speeds up some legacy garbage opengl
 - Modernfix - Fixes some stuff that prob improves peformance
+- Krypton - Makes network go fast
 
 ## Qol
 
