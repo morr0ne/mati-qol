@@ -19,6 +19,11 @@ hash = "5e9beea41a6fc97676df2152abe502ecaec27990ce700e653eeb39bd9665c633"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c0fd4aea6da31ebee878dc2355376f9c58548e299eac47a07d7e25e4c7b2d327"
 metafile = true
@@ -41,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
