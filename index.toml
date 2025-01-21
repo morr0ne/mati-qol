@@ -9,6 +9,11 @@ file = "README.md"
 hash = "5f7e819ef30020874c726d1758ad6f078bd64e65d219f04a597f6a026df64bfd"
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
 metafile = true
@@ -31,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "88a820c55f782886fbb3d063b1db33d89c924012b20554cd5aec3d27f3ce1819"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
 
 [[files]]

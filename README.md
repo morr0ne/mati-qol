@@ -15,6 +15,11 @@ just be in minecraft
 - ImmediatelyFast - Speeds up some legacy garbage opengl
 - Modernfix - Fixes some stuff that prob improves peformance
 - Krypton - Makes network go fast
+- Enhanced Block Entities - Makes entities not be lag
+
+## Pretty things
+
+- Iris - Adds shader support
 
 ## Qol
 
