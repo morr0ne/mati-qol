@@ -6,11 +6,11 @@ hash = "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1"
 
 [[files]]
 file = "README.md"
-hash = "230bec5b8cf776261746ef9d9389c90cc457dba05c3633b3845883a613fa4c28"
+hash = "4bcb60790546f1c457d31747ef2e89131b0c3e38a8ac37f2fb9e4f7380f2b586"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "82302805c9d6e897108da0e5abafd367eac05b517d9e892a2355cd0d91946b53"
+hash = "5e9beea41a6fc97676df2152abe502ecaec27990ce700e653eeb39bd9665c633"
 metafile = true
 
 [[files]]
@@ -69,13 +69,18 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
+file = "mods/placeholder-api.pw.toml"
+hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
 
 [[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "6475037d680289b4cf8bca4e375b3ecb9c9d6d90dd785b9bd085a42b9c84b795"
 metafile = true
 
 [[files]]
@@ -84,11 +89,36 @@ hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "6044bf9250c975fe41d120e992b9dac06b1aff81c0e09d8fc6a06cf5240d1341"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "461adc31ce2b89cafc5ad2e846b482c68529231ac1d907e39ec62458b22e6b3e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-mod-compat.pw.toml"
+hash = "93e9089139c4c2bae782d267bec3caf05a062e3b40ecd3eb277055cf90bebbe9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "9d1f73c3789af9a505e159fce497ee3b3d1f1624a163ea0511e33c3aaaa18e9d"
 metafile = true
