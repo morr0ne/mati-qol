@@ -16,6 +16,7 @@ just be in minecraft
 - Modernfix - Fixes some stuff that prob improves peformance
 - Krypton - Makes network go fast
 - Enhanced Block Entities - Makes entities not be lag
+- C2me - Chunks get threading, the good kind
 
 ## Pretty things
 
