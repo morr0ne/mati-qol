@@ -1,6 +1,19 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1"
+
+[[files]]
+file = "README.md"
+hash = "291849f5d437685e2a2934fcbbf66c9437519ae7c120cccf8ff39b1f4cd448c3"
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
 metafile = true
@@ -13,4 +26,9 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
