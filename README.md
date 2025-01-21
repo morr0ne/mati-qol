@@ -33,3 +33,4 @@ just be in minecraft
 - Elytra slot - Adds an elytra slot so you can wear it with armor
 - Chat heads - What the mod says lol
 - Capes - Adds capes from several places
+- Appleskin - Adds saturation to you bar and probably something else
