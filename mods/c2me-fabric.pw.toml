@@ -1,6 +1,6 @@
 name = "Concurrent Chunk Management Engine (Fabric)"
 filename = "c2me-fabric-mc1.21.1-0.3.0+alpha.0.314.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/VSNURh3q/versions/vV4AvU4E/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.314.jar"
