@@ -6,7 +6,12 @@ hash = "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1"
 
 [[files]]
 file = "README.md"
-hash = "5f7e819ef30020874c726d1758ad6f078bd64e65d219f04a597f6a026df64bfd"
+hash = "230bec5b8cf776261746ef9d9389c90cc457dba05c3633b3845883a613fa4c28"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "82302805c9d6e897108da0e5abafd367eac05b517d9e892a2355cd0d91946b53"
+metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
