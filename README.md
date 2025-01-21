@@ -8,7 +8,12 @@ just be in minecraft
 ## Peformance
 
 - Sodium - Rendering engine for minecraft, kinda the basis
+- Sodium Extra - Add options things to sodium
 - Lithium - General logic optimizations by the same team as sodium
+- Entity culling - Does like stuff that makes culling thing go
+- FerriteCore - Memory optimization mod
+- ImmediatelyFast - Speeds up some legacy garbage opengl
+- Modernfix - Fixes some stuff that prob improves peformance
 
 ## Qol
 
