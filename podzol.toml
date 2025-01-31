@@ -35,3 +35,4 @@ sodium = { version = "mc1.21.1-0.6.5-fabric", side = "client" }
 sodiumleafculling = { version = "1.0.0", side = "client" }
 trinkets = { version = "3.10.0", side = "both" }
 txnilib = { version = "fabric-1.21.1-1.0.22", side = "both" }
+charm-of-undying = { version = "9.1.0+1.21.1", side = "both" }

@@ -34,3 +34,4 @@ just be in minecraft
 - Chat heads - What the mod says lol
 - Capes - Adds capes from several places
 - Appleskin - Adds saturation to you bar and probably something else
+- Charm of Undying - Adds a slot for the totem
