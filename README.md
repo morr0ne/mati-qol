@@ -25,6 +25,7 @@ just be in minecraft
 
 - Iris - Adds shader support
 - Sodium Dynamic Lights - Dynamic lights but in sodium
+- Not enough animatinons - Tons of cool animations
 
 ## Qol
 
@@ -36,3 +37,7 @@ just be in minecraft
 - Appleskin - Adds saturation to you bar and probably something else
 - Charm of Undying - Adds a slot for the totem
 - Better advancemnts- Make advancments nicer
+- Jade - look at that
+- Emi - Shows you all the stuff
+- Midnight control - Adds controller/touch support
+- Better ping display - makes ping not garbage
