@@ -35,3 +35,4 @@ just be in minecraft
 - Capes - Adds capes from several places
 - Appleskin - Adds saturation to you bar and probably something else
 - Charm of Undying - Adds a slot for the totem
+- Better advancemnts- Make advancments nicer
